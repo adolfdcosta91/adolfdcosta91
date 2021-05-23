@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**adolfdcosta91/adolfdcosta91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+##Here are some ideas to get you started:
 
 - 👦 My Academics: Completed Masters Computer Engineering Florida Institute of Technology. 
 - 🔭 I’m currently working: Helical Communication Technology in sending my first Embedded Circuit to Space.🚀
@@ -14,4 +11,4 @@ Here are some ideas to get you started:
 - 😄 LinkedIn: https://www.linkedin.com/in/adolfdcosta/
 - ⚡ Thesis: Model Optimization for Edge Devices. (Machine Learning on Embedded Devices):  http://hdl.handle.net/11141/3134 📚
 
-<img height="20" alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+##<img height="20" alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
