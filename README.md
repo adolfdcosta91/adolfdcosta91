@@ -4,7 +4,7 @@
 
 - 👦 My Academics: Completed Masters Computer Engineering Florida Institute of Technology. 
 - 🔭 I’m currently working: Helical Communication Technology in sending my first Embedded Circuit to Space.🚀
-- 🌱 I’m currently learning: Gaining in knowledge on Embedded Software Programming.  💻
+- 🌱 I’m currently learning: Gaining knowledge on Embedded Software Programming.  💻
 - 🤔 I’m looking for: New industry exposure. 👨‍🚒
 - 💬 Ask me about: About Embedded Hardware and Software 💡
 - 📫 How to reach me: adolfdcosta91@gmail.com 📩
