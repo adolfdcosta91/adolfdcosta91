@@ -21,4 +21,4 @@
 ## Designing Software
 
 <img height="30" alt="Fusion 360" src="https://img.shields.io/badge/Autodesk%20Fusion360%20-%230696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white"/>
-<img height="30" alt="Altium Designer" src="https://img.shields.io/badge/Altium%20Designer%20-%23A5915F.svg?&style=for-the-badge&logo=Altium Designer&logoColor=white"/>
+<img height="30" alt="Altium Designer" src="https://img.shields.io/badge/Altium%20Designer%20-%23A5915F.svg?&style=for-the-badge&logo=Altium%20Designer&logoColor=white"/>
