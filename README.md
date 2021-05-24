@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ## Here are some ideas to get you started:
 
@@ -13,7 +13,11 @@
 
 ## Programming Languages
 
-<img height="30" alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
+<img height="30" alt="C" src="https://img.shields.io/badge/C%20-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white"/> 
+<img height="30" alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> 
 <img height="30" alt="Python" src="https://img.shields.io/badge/python%20-%4214354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
-<img height="30" alt="Fusion 360" src="https://img.shields.io/badge/Autodesk%20Fusion360%20-%230696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white"/>
 <img height="30" alt="MATLAB" src="https://img.shields.io/badge/Mathwork%20MATLAB%20-%230076A8.svg?&style=for-the-badge&logo=Mathworks&logoColor=white"/>
+
+## Designing Software
+
+<img height="30" alt="Fusion 360" src="https://img.shields.io/badge/Autodesk%20Fusion360%20-%230696D7.svg?&style=for-the-badge&logo=Autodesk&logoColor=white"/>
