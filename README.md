@@ -2,11 +2,10 @@
 
 ## Here are some ideas to get you started:
 
-- 👦 My Academics: Completed Masters Computer Engineering Florida Institute of Technology. 
-- 🔭 I’m currently working: Helical Communication Technology in sending my first Embedded Circuit to Space.🚀
+- 👦 My Academics: Completed Masters Computer Engineering Florida Institute of Technology (4.0) GPA.
+- 🔭 Worked at: Fortune 500 companies like Baker Hughes, Ford and Aerospace company like Helical Communication Technology.
 - 🌱 I’m currently learning: Gaining knowledge on Embedded Software Programming.  💻
-- 🤔 I’m looking for: New industry exposure. 👨‍🚒
-- 💬 Ask me about: About Embedded Hardware and Software 💡
+- 💬 Exposure: Testing, Designing, Simulating and Analyzing Digital and Analog Electronic Systems.💡
 - 📫 How to reach me: adolfdcosta91@gmail.com 📩
 - 😄 LinkedIn: https://www.linkedin.com/in/adolfdcosta/
 - ⚡ Thesis: Model Optimization for Edge Devices. (Machine Learning on Embedded Devices):  http://hdl.handle.net/11141/3134 📚
