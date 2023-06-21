@@ -2,7 +2,7 @@
 
 ## Here are some ideas to get you started:
 
-- 👦 My Academics: Completed Masters Computer Engineering Florida Institute of Technology (4.0) GPA.
+- 👦 My Academics: Completed Masters Computer Engineering Florida Institute of Technology (4.0) GPA. Completed Bachelors Electronics and Telecommunication Engineering University Of Mumbai (3.6) GPA 
 - 🔭 Worked at: Fortune 500 companies like Baker Hughes, Ford and Aerospace company like Helical Communication Technology.
 - 🌱 I’m currently learning: Gaining knowledge on Embedded Software Programming.  💻
 - 💬 Exposure: Testing, Designing, Simulating and Analyzing Digital and Analog Electronic Systems.💡
@@ -25,6 +25,7 @@
 ## VCS
 <img height="30" alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img height="30" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
 <img height="30" alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
+<img height="30" alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 ## OS
 <img height="30" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img height="30" alt="Windows" src="https://img.shields.io/badge/Windows-%230078D6?style=for-the-badge&logo=windows&logoColor=white" />
